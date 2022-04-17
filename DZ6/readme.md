@@ -1,5 +1,5 @@
 Тест-кейсы распределены по тестовым наборам:
 
-LoginTest : Тест-кейсы 1,2
-MainPageTest : Тест-кейсы 3,5
-UserStoryTest : Тест-кейсы 4,6
+LoginTest : Тест-кейсы 1,2;
+MainPageTest : Тест-кейсы 3,5;
+UserStoryTest : Тест-кейсы 4,6.
