@@ -1,0 +1,23 @@
+17.04.2022 22:15:27.172 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+17.04.2022 22:15:27.186 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hypno\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+17.04.2022 22:15:32.283 [main] INFO   Test-Case's 1-6 - Тест-кейс №1 пройден
+17.04.2022 22:15:35.187 [main] INFO   Test-Case's 1-6 - Тест-кейс №2 пройден
+17.04.2022 22:15:44.894 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+17.04.2022 22:15:44.910 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hypno\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+17.04.2022 22:15:48.092 [main] INFO   Test-Case's 1-6 - Тест-кейс №3 пройден
+17.04.2022 22:15:51.444 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Удилища)
+17.04.2022 22:15:54.468 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Катушки)
+17.04.2022 22:15:57.421 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Приманки)
+17.04.2022 22:16:00.344 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Лески)
+17.04.2022 22:16:03.268 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Крючки)
+17.04.2022 22:16:06.192 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Грузы)
+17.04.2022 22:16:08.952 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Аксессуары)
+17.04.2022 22:16:11.882 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Одежда)
+17.04.2022 22:16:14.639 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Кемпинг)
+17.04.2022 22:16:17.385 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Электроника)
+17.04.2022 22:16:20.636 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Сертификаты)
+17.04.2022 22:16:23.464 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Ловля форели)
+17.04.2022 22:16:34.107 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+17.04.2022 22:16:34.123 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hypno\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+17.04.2022 22:16:47.460 [main] INFO   Test-Case's 1-6 - Тест-кейс №4 пройден
+17.04.2022 22:16:58.722 [main] INFO   Test-Case's 1-6 - Тест-кейс №6 пройден
