@@ -1,0 +1,92 @@
+24.04.2022 22:17:43.427 [main] DEBUG  i.g.b.w.c.ResolutionCache - Resolution chrome=100 in cache (valid until 23:13:20 24/04/2022 MSK)
+24.04.2022 22:17:43.433 [main] DEBUG  i.g.b.w.c.ResolutionCache - Resolution chrome100=100.0.4896.60 in cache (valid until 22:13:20 25/04/2022 MSK)
+24.04.2022 22:17:43.433 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 100.0.4896.60 (resolved driver for Chrome 100)
+24.04.2022 22:17:43.449 [main] DEBUG  i.g.b.w.WebDriverManager - Driver chromedriver 100.0.4896.60 found in cache
+24.04.2022 22:17:43.449 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\hypno\.cache\selenium\chromedriver\win32\100.0.4896.60\chromedriver.exe
+24.04.2022 22:17:49.637 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //li//a[@href='/cabinet/auth/?login=yes&backurl=%2F']//i]
+24.04.2022 22:17:49.705 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='USER_LOGIN']]
+24.04.2022 22:17:49.746 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:17:49.784 [main] INFO   WebDriverEventListener - Введено значение - [MikhailS06]
+24.04.2022 22:17:49.841 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='USER_PASSWORD']]
+24.04.2022 22:17:49.885 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:17:49.923 [main] INFO   WebDriverEventListener - Введено значение - [D2EA_7abd]
+24.04.2022 22:17:50.756 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //button[@name='Login']]
+24.04.2022 22:17:51.441 [main] INFO   Test-Case's 1-6 - Тест-кейс №1 пройден
+24.04.2022 22:17:53.540 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //li//a[@href='/cabinet/auth/?login=yes&backurl=%2F']//i]
+24.04.2022 22:17:53.604 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='USER_LOGIN']]
+24.04.2022 22:17:53.650 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:17:53.702 [main] INFO   WebDriverEventListener - Введено значение - [MikhailS06]
+24.04.2022 22:17:53.749 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='USER_PASSWORD']]
+24.04.2022 22:17:53.781 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:17:53.830 [main] INFO   WebDriverEventListener - Введено значение - [password]
+24.04.2022 22:17:54.292 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //button[@name='Login']]
+24.04.2022 22:17:54.527 [main] INFO   Test-Case's 1-6 - Тест-кейс №2 пройден
+24.04.2022 22:17:55.915 [main] INFO   Test-Case's 1-6 - Тест-кейс №3 пройден
+24.04.2022 22:17:57.222 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //div[@class='col-12']//a[@href='/gruza/']]
+24.04.2022 22:17:58.035 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //div[@class='row']//a[@href='/gruza/bombardy/']]
+24.04.2022 22:17:58.990 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //a[@href='/gruza/bombardy/trout-master-ridge-sbiro/']]
+24.04.2022 22:18:00.876 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //td//strong[text()='12g Floating']/../..]
+24.04.2022 22:18:02.006 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='tocart[add]']]
+24.04.2022 22:18:03.891 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //span[@class='basket-item-actions-remove']]
+24.04.2022 22:18:06.441 [main] INFO   Test-Case's 1-6 - Тест-кейс №4 пройден
+24.04.2022 22:18:08.348 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/udilishcha/']]
+24.04.2022 22:18:09.434 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Удилища)
+24.04.2022 22:18:11.317 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/katushki/']]
+24.04.2022 22:18:12.380 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Катушки)
+24.04.2022 22:18:14.196 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/primanki/']]
+24.04.2022 22:18:15.272 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Приманки)
+24.04.2022 22:18:17.139 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/leski/']]
+24.04.2022 22:18:18.207 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Лески)
+24.04.2022 22:18:20.099 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/kruchki/']]
+24.04.2022 22:18:21.168 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Крючки)
+24.04.2022 22:18:23.034 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/gruza/']]
+24.04.2022 22:18:24.092 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Грузы)
+24.04.2022 22:18:25.950 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/aksessuary/']]
+24.04.2022 22:18:27.002 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Аксессуары)
+24.04.2022 22:18:28.924 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/odejhda/']]
+24.04.2022 22:18:29.976 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Одежда)
+24.04.2022 22:18:31.846 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/camping/']]
+24.04.2022 22:18:32.916 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Кемпинг)
+24.04.2022 22:18:34.917 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/elektronika/']]
+24.04.2022 22:18:35.987 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Электроника)
+24.04.2022 22:18:38.354 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/certificates/']]
+24.04.2022 22:18:39.405 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Сертификаты)
+24.04.2022 22:18:41.532 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //nav//a[@class='dropdown-item'][@href='/forel/']]
+24.04.2022 22:18:42.589 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден (Ловля форели)
+24.04.2022 22:18:44.604 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //li//a[@href='/cabinet/auth/?login=yes&backurl=%2F']//i]
+24.04.2022 22:18:44.849 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='USER_LOGIN']]
+24.04.2022 22:18:44.895 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:44.953 [main] INFO   WebDriverEventListener - Введено значение - [MikhailS06]
+24.04.2022 22:18:44.999 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='USER_PASSWORD']]
+24.04.2022 22:18:45.030 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:45.084 [main] INFO   WebDriverEventListener - Введено значение - [D2EA_7abd]
+24.04.2022 22:18:45.949 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //button[@name='Login']]
+24.04.2022 22:18:46.162 [main] DEBUG  Test-Case's 1-6 -  - тесткейс № 6 : авторизация успешна
+24.04.2022 22:18:46.862 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //li//a[@href='/cabinet/']//i]
+24.04.2022 22:18:47.462 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //a[@href='/cabinet/personal/']]
+24.04.2022 22:18:47.709 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='NAME']]
+24.04.2022 22:18:47.750 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:47.801 [main] INFO   WebDriverEventListener - Введено значение - [Иван]
+24.04.2022 22:18:47.860 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='SECOND_NAME']]
+24.04.2022 22:18:47.910 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:47.970 [main] INFO   WebDriverEventListener - Введено значение - [Иванович]
+24.04.2022 22:18:48.029 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='LAST_NAME']]
+24.04.2022 22:18:48.060 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:48.117 [main] INFO   WebDriverEventListener - Введено значение - [Иванов]
+24.04.2022 22:18:48.156 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:49.785 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='save']]
+24.04.2022 22:18:50.675 [main] DEBUG  Test-Case's 1-6 -  - тесткейс № 6 : данные пользователя сохранены
+24.04.2022 22:18:51.238 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //a[@href='/cabinet/personal/']]
+24.04.2022 22:18:51.362 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='NAME']]
+24.04.2022 22:18:51.401 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:51.458 [main] INFO   WebDriverEventListener - Введено значение - [Михаил]
+24.04.2022 22:18:51.506 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='SECOND_NAME']]
+24.04.2022 22:18:51.553 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:51.615 [main] INFO   WebDriverEventListener - Введено значение - [Александрович]
+24.04.2022 22:18:51.660 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='LAST_NAME']]
+24.04.2022 22:18:51.694 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:51.750 [main] INFO   WebDriverEventListener - Введено значение - [Нескажу]
+24.04.2022 22:18:51.792 [main] INFO   WebDriverEventListener - Введено значение - null
+24.04.2022 22:18:53.413 [main] INFO   WebDriverEventListener - Произведен клик по элементу [[ChromeDriver: chrome on WINDOWS (e8bccc539bbe00712ea0a4f076c2cb72)] -> xpath: //input[@name='save']]
+24.04.2022 22:18:54.242 [main] DEBUG  Test-Case's 1-6 -  - тесткейс № 6 : данные тостового пользователя восстановлены
+24.04.2022 22:18:54.253 [main] INFO   Test-Case's 1-6 - Тест-кейс №6 пройден
